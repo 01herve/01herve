@@ -2,7 +2,7 @@
 
 
 👋 Salut ! Je suis Hervé, un développeur passionné qui aime créer des applications.
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=01herve)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Langages et Frameworks
 
 Voici quelques-uns des langages de programmation et des frameworks que je maîtrise :
